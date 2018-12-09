@@ -1,0 +1,38 @@
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe.config
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.pdb
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.xml
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\info.lundin.math.dll
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbprojResolveAssemblyReference.cache
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Form1.resources
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Resources.resources
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.GenerateResource.Cache
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.exe
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.xml
+c:\users\pc19\documents\visual studio 2015\Projects\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.pdb
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe.config
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.pdb
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.xml
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbprojAssemblyReference.cache
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Form1.resources
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Resources.resources
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.GenerateResource.cache
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.CoreCompileInputs.cache
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.CopyComplete
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.exe
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.xml
+C:\Users\GQC\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.pdb
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe.config
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.exe
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.pdb
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\bin\Debug\Cuadratura de Gauss.xml
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbprojAssemblyReference.cache
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Form1.resources
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura_de_Gauss.Resources.resources
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.GenerateResource.cache
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.CoreCompileInputs.cache
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.vbproj.CopyComplete
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.exe
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.xml
+C:\Users\bxjc1\Desktop\Cuadratura de Gauss\Cuadratura de Gauss\obj\Debug\Cuadratura de Gauss.pdb

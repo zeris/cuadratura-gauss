@@ -1,0 +1,1 @@
+Buenas noches, espero te encuentres bien, antes que nada, para que el programa pueda detectar el archivo de Excel debe crear un archivo en excel con la extensión .CSV (el que se incluye en esta carpeta tiene dicha extensión) luego deberas colocarlo en la Raíz de tu disco duro, esto quiere decir, solo arrastralo a tu disco local C:/ ahí es en donde buscara el archivo el programa.
